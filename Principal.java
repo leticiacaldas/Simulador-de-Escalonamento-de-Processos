@@ -1,5 +1,3 @@
-package com.mycompany.processo;
-
 import java.io.BufferedReader; //ler um arquivo CSV que contém informações sobre processos
 import java.io.FileReader;
 import java.io.IOException;
