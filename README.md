@@ -39,4 +39,4 @@ Estrutura do Projeto
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR ou uma issue para discutir novas funcionalidades, correções de bugs, etc.
 Licença
 
-Este projeto está licenciado sob a MIT License..
+
